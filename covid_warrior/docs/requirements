@@ -1,0 +1,33 @@
+------------------------------------------------------------
+What program are we going to create?
+------------------------------------------------------------
+A space invaders clone with similar mechanics and different
+game assets. The theme will be closly tied to the 
+coronavirus with masks, Karen, virus particles and even
+hand sanitizer. 
+
+------------------------------------------------------------
+What technologies will we use?
+------------------------------------------------------------
+- Python
+- Arcade
+- Git
+- Math
+- Random
+
+------------------------------------------------------------
+What features will we include?
+------------------------------------------------------------
+We will include similar mechanics to Space Invaders, but instead
+we put in a fun twist incorperating a manager trying to prevent 
+the spread of covid. The manager will shoot masks, and hand 
+sanitizer to prevent the enemies which will be Karens and
+the virus.
+
+------------------------------------------------------------
+What is your timeline?
+------------------------------------------------------------
+Program will be finalized by the due date. The images used 
+in the game will be designed by March 6, 2021. The shooting
+and hero character actions will be functioning by March 13, 2021.
+The enemies in the game will be functioning by March 20th, 2021.

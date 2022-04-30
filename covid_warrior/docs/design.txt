@@ -1,0 +1,33 @@
+---------------------------------------------------------------
+Design
+---------------------------------------------------------------
+This document contains the design priorities for the 
+Covid Warrior game. They are divided by top, middle 
+and low priorities.
+
+
+---------------------------------------------------------------
+Top Priorities
+---------------------------------------------------------------
+- Game Starts
+- Enemies appear
+- player appears
+- Player can move
+
+
+---------------------------------------------------------------
+Middle Priorities
+---------------------------------------------------------------
+- enemies Move
+- shots fire
+- collisions of projectiles and enemies
+
+
+---------------------------------------------------------------
+Low Priorities
+---------------------------------------------------------------
+- score tracked and displayed
+- collision of enemy and player
+- end game from win condition
+- end game from lose condition
+- add sound for collisions
